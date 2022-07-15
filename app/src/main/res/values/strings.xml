@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BukuCuan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_motto">Manage your financial income and \n expenses in one app. BukuCuan provides money management for with just several clicks !</string>
+
+    <!--Tutorial-->
+    <string name="tutorial1">1. Go to transaction page to make your first transaction</string>
+    <string name="tutorial2">2. Press the add sign button at the right bottom corner in the menu</string>
+    <string name="tutorial3">3. Add transaction details such as type, category, amount and note of the transaction</string>
+    <string name="tutorial4">4. Save your transaction by pressing the save transaction button</string>
+    <string name="tutorial5">5. After filling the transaction details, you can see that the transaction will immediately appear on the transaction menu</string>
+    <string name="tutorial6">6. You can delete the transaction that you have made, by long pressing the transaction</string>
+    <string name="tutorial7">7. If you want to update your transaction details, you can just click the transaction that you want to change</string>
+    <string name="tutorial8">8. If you want to filter your transaction by a specific time, you can press one of the the filter button on the top</string>
+    <string name="tutorial9">9. You can also filter transaction on a certain date by setting the start and end date using date filter button</string>
+    <string name="tutorial10">10. Voila ! Now your transactions have been filtered based on the date that you\'ve set !</string>
+
+</resources>
+

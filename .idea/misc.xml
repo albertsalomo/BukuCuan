@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable-v24/border_down_content.xml" value="0.179" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2115" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable-v24/resize_app_icon.xml" value="0.136" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable-v24/resize_profile_icon.xml" value="0.177" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable-v24/resize_transaction_icon.xml" value="0.177" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/app_icon_logo.xml" value="0.136" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/black_border.xml" value="0.1375" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/border_edit.xml" value="0.124" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/circle_avatar.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/circle_down_transaction.xml" value="0.2115" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/circle_up_transaction.xml" value="0.2115" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/cirlce.xml" value="0.189" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/content2_gradient_green.xml" value="0.2235" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/content_2_background.xml" value="0.2235" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/custom_styles.xml" value="0.189" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/developer_border_edit.xml" value="0.189" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/developer_image.xml" value="0.189" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/edit_text_layout_custom.xml" value="0.2235" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/financial_content.xml" value="0.179" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/gradient_content.xml" value="0.242" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/gradient_trending.xml" value="0.242" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_add.xml" value="0.242" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_app_icon.xml" value="0.136" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_balance.xml" value="0.242" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_close.xml" value="0.242" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_down.xml" value="0.2115" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_down_transaction.xml" value="0.232" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_email.xml" value="0.181" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_filter.xml" value="0.2025" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_home.xml" value="0.2415" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_in_transaction.xml" value="0.1" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_info.xml" value="0.2115" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.181" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_left_arrow.xml" value="0.2115" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_lock.xml" value="0.2115" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_monetization.xml" value="0.1" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_notes.xml" value="0.2115" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_out_transaction.xml" value="0.1" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_person.xml" value="0.2115" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_right_arrow.xml" value="0.18" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_trending.xml" value="0.181" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_up.xml" value="0.232" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/ic_up_transaction.xml" value="0.2115" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/image_date.xml" value="0.1605" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/resize_home_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/resize_logo_icon.xml" value="0.2025" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/resize_user_icon.xml" value="0.25" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/rounded_button.xml" value="0.242" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/rounded_button_analytics.xml" value="0.2235" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/rounded_custom_right_arrow.xml" value="0.181" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/rounded_custor_right_arrow.xml" value="0.181" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/drawable/selector.xml" value="0.177" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/font/.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_change_password.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_create.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_developer_profile.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_filter.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_footer.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_graph.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_header.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_profile_nav.xml" value="0.25" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_register.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_transaction.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_tutorial.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/activity_welcome.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/adapter_avatar.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/adapter_category.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/adapter_transaction.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/fragment_avatar.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/mipmap-anydpi-v26/ic_launcher_bukucuan.xml" value="0.136" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/mipmap-anydpi-v26/ic_launcher_bukucuan_round.xml" value="0.136" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/alber/AndroidStudioProjects/BukuCuan/app/src/main/res/mipmap-hdpi/ic_launcher_bukucuan.xml" value="0.136" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
